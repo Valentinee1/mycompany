@@ -515,4 +515,8 @@ footer{
 	.button_block input{
 		margin:0;
 	}
+	.main__testimonials{
+		padding-left: 100px;
+		padding-right: 100px;
+	}
 }
